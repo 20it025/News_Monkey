@@ -1336,5 +1336,5 @@ articles = [
     )
   }
 }
-
+//news
 export default News
